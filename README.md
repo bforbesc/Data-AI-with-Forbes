@@ -1,6 +1,6 @@
 # Data and AI with Forbes
 
-Welcome to **Data and AI with Forbes**, a repository for data and AI topics clearly and simply explained. Each notebook is designed to illustrate key concepts in a simple, hands-on way — adequate for learners, professionals, and enthusiasts alike. This project is part of my effort to make technical data and AI concepts more accessible. If you’re interested in simplifying AI, machine learning, and data science, follow along on [LinkedIn](https://www.linkedin.com/in/your-profile/) and watch this repo for new updates.
+Welcome to **Data and AI with Forbes**, a repository for data and AI topics clearly and simply explained. Each notebook is designed to illustrate key concepts in a simple, hands-on way — adequate for learners, professionals, and enthusiasts alike. This project is part of my effort to make technical data and AI concepts more accessible. If you’re interested in simplifying AI, machine learning, and data science, follow along on [LinkedIn](https://www.linkedin.com/in/bernardoforbescosta/) and watch this repo for new updates.
 
 > 📌 **Tip:** Click the **"Open in Colab"** badge in the table below to launch each notebook interactively.
 
