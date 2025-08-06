@@ -2,9 +2,6 @@
 
 Welcome to **Data and AI with Forbes**, a repository for data and AI topics clearly and simply explained. Each notebook is designed to illustrate key concepts in a simple, hands-on way — adequate for learners, professionals, and enthusiasts alike. This project is part of my effort to make technical data and AI concepts more accessible. If you’re interested in simplifying AI, machine learning, and data science, follow along on [LinkedIn](https://www.linkedin.com/in/bernardoforbescosta/) and watch this repo for new updates.
 
-> 📌 **Tip:** Click the **"Open in Colab"** badge in the table below to launch each notebook interactively.
-
----
 
 ## Articles and Notebooks
 
@@ -13,9 +10,8 @@ Welcome to **Data and AI with Forbes**, a repository for data and AI topics clea
 | _Coming soon_ | _Notebook 1 description_ | [Read on LinkedIn](https://www.linkedin.com/in/your-profile/) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/data-and-ai-with-forbes/blob/main/notebooks/notebook1.ipynb) |
 | _Coming soon_ | _Notebook 2 description_ | [Read on LinkedIn](https://www.linkedin.com/in/your-profile/) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/data-and-ai-with-forbes/blob/main/notebooks/notebook2.ipynb) |
 
-> As new articles are published, this table will be updated with links to the articles and notebooks.
+> 📌 **Tip:** Click the **"Open in Colab"** badge in the table below to launch each notebook interactively.
 
----
 
 ## How to Use
 
