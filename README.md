@@ -7,7 +7,7 @@ Welcome to **Data and AI with Forbes**, a repository for data and AI topics clea
 
 | Title | Description | [![LinkedIn](https://img.shields.io/badge/Article-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/bernardoforbescosta/) | [![Open in Colab](https://img.shields.io/badge/Open-Colab-yellow?logo=google-colab)](https://colab.research.google.com) |
 |-------|-------------|------------------------------------------------|-------------------------------------------------------------|
-| **AI's fuel: From Words to Tokens** | A walkthrough that converts a sentence into tokens, maps them to indices, builds one-hot vectors, and stacks them into a tensor. | [Read Article](https://www.linkedin.com/in/your-profile/) | [Open Notebook](https://colab.research.google.com/github/bforbesc/Data-AI-with-Forbes/blob/main/from-words-to-tokens.ipynb) |
+| **AI's fuel: From Words to Tokens** | A walkthrough that converts a sentence into tokens, maps them to indices, builds one-hot vectors, and stacks them into a tensor. | [Read Article](https://www.linkedin.com/in/your-profile/) | [Open Notebook](https://colab.research.google.com/github/bforbesc/Data-AI-with-Forbes/notebooks/blob/main/from-words-to-tokens.ipynb) |
 
 > 📌 **Tip:** Click the **"Open in Colab"** badge in the table below to launch each notebook interactively.
 
