@@ -7,7 +7,7 @@ Welcome to **Data and AI with Forbes**, a repository for data and AI topics clea
 
 | Nº | Title | Description | [![LinkedIn](https://img.shields.io/badge/Article-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/bernardoforbescosta/) | [![Open in Colab](https://img.shields.io/badge/Open-Colab-yellow?logo=google-colab)](https://colab.research.google.com) |
 |-|-------|-------------|-----------------------------------------------------|-------------------------------------------------------------|
-| 1 | **AI's fuel: From Text to Tokens to Tensors** | A walkthrough that converts a sentence into tokens, maps them to indices, builds one-hot vectors, and stacks them into a tensor. | [Read Article](https://www.linkedin.com/in/your-profile/) | [Open Notebook](https://colab.research.google.com/github/bforbesc/Data-AI-with-Forbes/blob/main/notebooks/1-ai-fuel-from-text-to-tokens-to-tensors.ipynb) |
+| 1 | **AI's fuel: From Text to Tokens to Tensors** | A walkthrough that converts a sentence into tokens, maps them to indices, builds one-hot vectors, and stacks them into a tensor. | [Read Article](https://www.linkedin.com/pulse/ais-fuel-from-text-tokens-tensors-bernardo-forbes-costa-phd-bhyhf) | [Open Notebook](https://colab.research.google.com/github/bforbesc/Data-AI-with-Forbes/blob/main/notebooks/1-ai-fuel-from-text-to-tokens-to-tensors.ipynb) |
 
 > As new articles are published, this table will be updated with links to the articles and notebooks
 
