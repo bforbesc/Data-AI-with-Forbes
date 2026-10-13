@@ -4,7 +4,7 @@ Notebooks for a one-day class (Pós-Graduação em Data e AI for Business, Nova 
 
 ## The notebooks
 
-- **`genai_day.ipynb`**: the day's notebook, Sections 0 to 6b. Every section matches a slide that says "OPEN NOTEBOOK → Section N", and its headings repeat that slide's **Demo** and **Your turn** bullets. Solutions sit in collapsed "Show solution" boxes.
+- **`genai_day.ipynb`**: the day's notebook, Sections 0 to 6b. Each section has a **Demo** part (watch) and a **Your turn** part (try), with solutions in collapsed "Show solution" boxes. In class, each section matches the slide that says "OPEN NOTEBOOK → Section N".
   [Open in Colab](https://colab.research.google.com/github/bforbesc/Data-AI-with-Forbes/blob/main/notebooks/genai-day/genai_day.ipynb)
 - **`final_challenge.ipynb`**: Section 7, for groups. It is self-contained and runs in one click, whatever happened earlier in the day.
   [Open in Colab](https://colab.research.google.com/github/bforbesc/Data-AI-with-Forbes/blob/main/notebooks/genai-day/final_challenge.ipynb)
