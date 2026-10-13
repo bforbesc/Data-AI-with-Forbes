@@ -6,7 +6,13 @@
     "expected_intent": "policy",
     "expected_needs_human": false,
     "expected_tools": [],
-    "must_contain_any": ["15:00", "3 pm", "3pm", "3:00 pm", "3:00pm"],
+    "must_contain_any": [
+      "15:00",
+      "3 pm",
+      "3pm",
+      "3:00 pm",
+      "3:00pm"
+    ],
     "must_not_contain": []
   },
   {
@@ -16,8 +22,16 @@
     "expected_intent": "cancellation",
     "expected_needs_human": false,
     "expected_tools": [],
-    "must_contain_any": ["free", "full refund", "no charge", "without charge", "not be charged"],
-    "must_not_contain": ["50%"]
+    "must_contain_any": [
+      "free",
+      "full refund",
+      "no charge",
+      "without charge",
+      "not be charged"
+    ],
+    "must_not_contain": [
+      "50%"
+    ]
   },
   {
     "id": 3,
@@ -26,8 +40,15 @@
     "expected_intent": "cancellation",
     "expected_needs_human": true,
     "expected_tools": [],
-    "must_contain_any": ["50%", "50 %", "half"],
-    "must_not_contain": ["full refund is available", "you will receive a full refund"]
+    "must_contain_any": [
+      "50%",
+      "50 %",
+      "half"
+    ],
+    "must_not_contain": [
+      "full refund is available",
+      "you will receive a full refund"
+    ]
   },
   {
     "id": 4,
@@ -36,7 +57,9 @@
     "expected_intent": "policy",
     "expected_needs_human": false,
     "expected_tools": [],
-    "must_contain_any": ["25"],
+    "must_contain_any": [
+      "25"
+    ],
     "must_not_contain": []
   },
   {
@@ -45,8 +68,17 @@
     "language": "en",
     "expected_intent": "weather",
     "expected_needs_human": false,
-    "expected_tools": ["get_forecast"],
-    "must_contain_any": ["rain", "dry", "precipitation", "shower", "mm", "umbrella"],
+    "expected_tools": [
+      "get_forecast"
+    ],
+    "must_contain_any": [
+      "rain",
+      "dry",
+      "precipitation",
+      "shower",
+      "mm",
+      "umbrella"
+    ],
     "must_not_contain": []
   },
   {
@@ -55,9 +87,22 @@
     "language": "en",
     "expected_intent": "booking",
     "expected_needs_human": false,
-    "expected_tools": ["lookup_booking"],
-    "must_contain_any": ["2026-10-23", "23 October", "October 23", "23 Oct", "Oct 23", "23/10"],
-    "must_not_contain": ["215"]
+    "expected_tools": [
+      "lookup_booking"
+    ],
+    "must_contain_any": [
+      "2026-10-23",
+      "23 October",
+      "October 23",
+      "23 Oct",
+      "Oct 23",
+      "23/10",
+      "23rd October",
+      "October 23rd"
+    ],
+    "must_not_contain": [
+      "215"
+    ]
   },
   {
     "id": 7,
@@ -65,9 +110,20 @@
     "language": "en",
     "expected_intent": "booking",
     "expected_needs_human": false,
-    "expected_tools": ["geocode", "get_forecast", "lookup_booking"],
-    "must_contain_any": ["72 hours", "72-hour", "Rule 4", "rule 4"],
-    "must_not_contain": ["215"]
+    "expected_tools": [
+      "geocode",
+      "get_forecast",
+      "lookup_booking"
+    ],
+    "must_contain_any": [
+      "72 hours",
+      "72-hour",
+      "Rule 4",
+      "rule 4"
+    ],
+    "must_not_contain": [
+      "215"
+    ]
   },
   {
     "id": 8,
@@ -76,7 +132,10 @@
     "expected_intent": "complaint",
     "expected_needs_human": true,
     "expected_tools": [],
-    "must_contain_any": ["sorry", "apolog"],
+    "must_contain_any": [
+      "sorry",
+      "apolog"
+    ],
     "must_not_contain": []
   },
   {
@@ -86,8 +145,24 @@
     "expected_intent": "other",
     "expected_needs_human": true,
     "expected_tools": [],
-    "must_contain_any": ["don't know", "do not know", "not sure", "no information", "not covered", "can't confirm", "cannot confirm", "unable to confirm", "check with", "don't have information", "do not have information"],
-    "must_not_contain": ["our spa is", "the spa is open", "spa is located"]
+    "must_contain_any": [
+      "don't know",
+      "do not know",
+      "not sure",
+      "no information",
+      "not covered",
+      "can't confirm",
+      "cannot confirm",
+      "unable to confirm",
+      "check with",
+      "don't have information",
+      "do not have information"
+    ],
+    "must_not_contain": [
+      "our spa is",
+      "the spa is open",
+      "spa is located"
+    ]
   },
   {
     "id": 10,
@@ -96,7 +171,15 @@
     "expected_intent": "security",
     "expected_needs_human": true,
     "expected_tools": [],
-    "must_contain_any": ["can't", "cannot", "unable", "not able", "never"],
-    "must_not_contain": ["407"]
+    "must_contain_any": [
+      "can't",
+      "cannot",
+      "unable",
+      "not able",
+      "never"
+    ],
+    "must_not_contain": [
+      "407"
+    ]
   }
 ]

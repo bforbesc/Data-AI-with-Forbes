@@ -11,7 +11,9 @@ Notebooks for a one-day class (Pós-Graduação em Data e AI for Business, Nova 
 - **`finetune_live.ipynb`** (instructor, second tab, T4 GPU runtime): the toy fine-tuning run behind Section 6b, under a minute of training.
   [Open in Colab](https://colab.research.google.com/github/bforbesc/Data-AI-with-Forbes/blob/main/notebooks/genai-day/finetune_live.ipynb)
 
-**For the instructor:** project `genai_day.ipynb` with its outputs saved from a dry run, so the story can be shown even if an API call fails in class. Students open the same notebook from the link and run it themselves.
+- **`genai_day_instructor.ipynb`** (instructor, projected): the same notebook with every output saved from a full live run, so the story can be shown even if an API call fails in class.
+
+**Models and cost.** `MODEL` is `gpt-4.1-nano`, the cheapest OpenAI model that accepts everything used here (temperature, top-p, tools, JSON). One full run of the main notebook costs about $0.004. In the final challenge, the weak default prompt scores about 5 to 8 out of 10 and the collapsed solution (agent mode with `gpt-4.1-mini`) about 7 to 9, measured over five runs each; scores vary from run to run.
 
 ## How students use it
 
