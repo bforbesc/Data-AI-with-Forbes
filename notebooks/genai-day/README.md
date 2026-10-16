@@ -8,10 +8,10 @@ Notebooks for a one-day class (Pós-Graduação em Data e AI for Business, Nova 
   [Open in Colab](https://colab.research.google.com/github/bforbesc/Data-AI-with-Forbes/blob/main/notebooks/genai-day/genai_day.ipynb)
 - **`final_challenge.ipynb`**: Section 7, for groups. It is self-contained and runs in one click, whatever happened earlier in the day.
   [Open in Colab](https://colab.research.google.com/github/bforbesc/Data-AI-with-Forbes/blob/main/notebooks/genai-day/final_challenge.ipynb)
-- **`finetune_live.ipynb`** (instructor, second tab, T4 GPU runtime): the toy fine-tuning run behind Section 6b, under a minute of training.
-  [Open in Colab](https://colab.research.google.com/github/bforbesc/Data-AI-with-Forbes/blob/main/notebooks/genai-day/finetune_live.ipynb)
-
+- **`model_finetuning.ipynb`** (instructor, T4 GPU runtime): the toy fine-tuning behind Section 6b. It teaches SmolLM2 the hotel's voice in about a minute; the resulting model is published as [bforbesc/smollm2-135m-hotel-silencio](https://huggingface.co/bforbesc/smollm2-135m-hotel-silencio).
+  [Open in Colab](https://colab.research.google.com/github/bforbesc/Data-AI-with-Forbes/blob/main/notebooks/genai-day/model_finetuning.ipynb)
 - **`genai_day_instructor.ipynb`** (instructor, projected): the same notebook with every output saved from a full live run, so the story can be shown even if an API call fails in class.
+  [Open in Colab](https://colab.research.google.com/github/bforbesc/Data-AI-with-Forbes/blob/main/notebooks/genai-day/genai_day_instructor.ipynb)
 
 **Models and cost.** `MODEL` is `gpt-4.1-nano`, the cheapest OpenAI model that accepts everything used here (temperature, top-p, tools, JSON). One full run of the main notebook costs about $0.004. In the final challenge, the weak default prompt scores about 5 to 8 out of 10 and the collapsed solution (agent mode with `gpt-4.1-mini`) about 7 to 9, measured over five runs each; scores vary from run to run.
 
@@ -24,6 +24,12 @@ Notebooks for a one-day class (Pós-Graduação em Data e AI for Business, Nova 
 ## Keeping up with new models
 
 Section 0 has `MODEL = "..."`. To try a new model, change that line and its entry in `PRICES`, then rerun. The ten test emails in the final challenge are your personal benchmark.
+
+## Links
+
+- Small open model: [SmolLM2-135M-Instruct](https://huggingface.co/HuggingFaceTB/SmolLM2-135M-Instruct); fine-tuned version: [bforbesc/smollm2-135m-hotel-silencio](https://huggingface.co/bforbesc/smollm2-135m-hotel-silencio)
+- Weather API: [Open-Meteo](https://open-meteo.com/en/docs) · Prices: [OpenAI pricing](https://developers.openai.com/api/docs/pricing) · Framework: [LangChain](https://docs.langchain.com/oss/python/langchain/overview)
+- Reading: Anthropic, [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents); Yao et al., [ReAct](https://arxiv.org/abs/2210.03629)
 
 ## Data (`data/`)
 
