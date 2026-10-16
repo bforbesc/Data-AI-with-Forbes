@@ -6,7 +6,7 @@ Notebooks for a one-day class (Pós-Graduação em Data e AI for Business, Nova 
 
 - **`genai_day.ipynb`**: the day's notebook, Sections 0 to 6b. Each section has a **Demo** part (watch) and a **Your turn** part (try), with solutions in collapsed "Show solution" boxes. In class, each section matches the slide that says "OPEN NOTEBOOK → Section N".
   [Open in Colab](https://colab.research.google.com/github/bforbesc/Data-AI-with-Forbes/blob/main/notebooks/genai-day/genai_day.ipynb)
-- **`final_challenge.ipynb`**: Section 7, for groups. It is self-contained and runs in one click, whatever happened earlier in the day.
+- **`final_challenge.ipynb`**: the final challenge, for groups, at the end of the day. It is self-contained and runs in one click, whatever happened earlier in the day.
   [Open in Colab](https://colab.research.google.com/github/bforbesc/Data-AI-with-Forbes/blob/main/notebooks/genai-day/final_challenge.ipynb)
 - **`model_finetuning.ipynb`** (instructor, T4 GPU runtime): the toy fine-tuning behind Section 6b. It teaches SmolLM2 the hotel's voice in about a minute; the resulting model is published as [bforbesc/smollm2-135m-hotel-silencio](https://huggingface.co/bforbesc/smollm2-135m-hotel-silencio).
   [Open in Colab](https://colab.research.google.com/github/bforbesc/Data-AI-with-Forbes/blob/main/notebooks/genai-day/model_finetuning.ipynb)
