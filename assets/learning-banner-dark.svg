@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title description">
+  <title id="title">Data &amp; AI with Forbes</title>
+  <desc id="description">Courses, notebooks and experiments by Bernardo Forbes Costa. Dark theme matching bernardoforbescosta.pt.</desc>
+  <rect x="0.5" y="0.5" width="1279" height="359" rx="12" fill="#0a0c0a" stroke="#222722"/>
+  <g font-family="'IBM Plex Mono', Menlo, Consolas, 'Liberation Mono', monospace">
+    <rect x="58" y="40" width="8" height="8" rx="2" fill="#6fe58b"/>
+    <text x="78" y="49" fill="#e9eee9" font-size="16" font-weight="600">Bernardo Forbes Costa</text>
+    <text x="58" y="111" fill="#6fe58b" font-size="17">&gt;</text>
+    <text x="82" y="111" fill="#868e88" font-size="14" letter-spacing="2">COURSES, NOTEBOOKS &amp; EXPERIMENTS</text>
+    <text x="54" y="186" fill="#e9eee9" font-size="62" font-weight="600" letter-spacing="-2">Data &amp; AI with Forbes</text>
+    <text x="58" y="237" fill="#b7beb9" font-size="22">Data science, machine learning &amp; generative AI.</text>
+    <path d="M58 281H1222" stroke="#222722"/>
+    <text x="58" y="319" fill="#868e88" font-size="13" letter-spacing="1.5">LEARN / EXPLORE / EXPERIMENT</text>
+    <text x="1222" y="319" text-anchor="end" fill="#868e88" font-size="14">bernardoforbescosta.pt</text>
+  </g>
+</svg>

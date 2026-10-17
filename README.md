@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="assets/learning-banner.svg" alt="Data &amp; AI with Forbes — courses, examples and experiments" width="100%">
-</p>
-
-# 📚 Data & AI with Forbes
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/learning-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/learning-banner.svg">
+  <img src="assets/learning-banner.svg" alt="Data &amp; AI with Forbes — courses, notebooks and experiments by Bernardo Forbes Costa" width="100%">
+</picture>
 
 **Understand the ideas. Recognize the tools. Learn by trying.**
 
