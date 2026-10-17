@@ -56,7 +56,7 @@ The app takes a CSV, preprocesses features, fits KMeans, compares cluster counts
 
 **Experiment:** an agent that helps wrestle raw data into something you can explore, clean, and visualize.
 
-[Source code](https://github.com/bforbesc/Your-Data-Wrestler) · [Setup and usage](https://github.com/bforbesc/Your-Data-Wrestler#setup) · [Hosted link from the original README](https://your-data-wrestler.streamlit.app/)
+[Source code](https://github.com/bforbesc/Your-Data-Wrestler) · [Setup and usage](https://github.com/bforbesc/Your-Data-Wrestler/blob/main/docs/DEVELOPER_REFERENCE.md#setup) · [Hosted link from the original README](https://your-data-wrestler.streamlit.app/)
 
 The Streamlit app combines data uploads, natural-language questions, cleaning suggestions, and interactive visualizations. The current repository describes Strands Agents with OpenAI models for tool-using data analysis. It is a useful bridge from the [GenAI and agents notebooks](../notebooks/genai-day/) to an application built around a real task.
 
@@ -69,7 +69,7 @@ The Streamlit app combines data uploads, natural-language questions, cleaning su
 
 **Revisit with today's tools:** compare a fixed analysis workflow with a tool-using agent on the same dataset and questions. Evaluate correctness, repeatability, and how much intervention each needs.
 
-**Context:** AI features require an OpenAI API key and can incur API charges. Use synthetic or public data for teaching; consult the original implementation before uploading private data. Follow the original setup instructions, substituting `https://github.com/bforbesc/Your-Data-Wrestler.git` for the placeholder clone URL in its README. The original credits name @bforbesc and Claudia.
+**Context:** AI features require an OpenAI API key and can incur API charges. Use synthetic or public data for teaching; consult the original implementation before uploading private data. Follow the setup instructions in its developer reference. The original credits name @bforbesc and Claudia.
 
 ## Arita's Puppy Panic
 
@@ -77,7 +77,7 @@ The Streamlit app combines data uploads, natural-language questions, cleaning su
 
 **Experiment:** gaming as a playful way to explore building with AI tools.
 
-[Source code](https://github.com/bforbesc/arita-the-game) · [Game description](https://github.com/bforbesc/arita-the-game#readme)
+[Source code](https://github.com/bforbesc/arita-the-game) · [Game description](https://github.com/bforbesc/arita-the-game/blob/main/README.md)
 
 A tiny browser game about protecting a dog from everyday chaos: move left and right, collect bones, hearts, and toys, and avoid poop, brooms, and baths. Reaching the target score reveals a generated puppy picture as a reward.
 
