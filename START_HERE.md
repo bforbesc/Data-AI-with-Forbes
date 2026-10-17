@@ -8,14 +8,14 @@ Courses, notebooks, and project examples for students exploring data and AI. The
 
 Start with a question: preparing a table is **data transformation**; choosing a chart is **visualization**; predicting from known answers is **supervised learning**; finding groups without answers is **unsupervised learning**. The hub links each topic to a small example and names the tools used to implement it.
 
-The [first-classifier notebook](notebooks/3-first-classifier.ipynb) introduces supervised learning.
+The [first-classifier notebook](notebooks/first-classifier.ipynb) introduces supervised learning.
 
 ## Choose your first activity
 
 | Activity | What it covers | What you need |
 |---|---|---|
 | [Explore a GDP dashboard](https://github.com/bforbesc/gdp-dashboard#start-here-no-coding) | See how a chart changes when you choose countries and dates | A browser; the shared template demo is linked in the guide |
-| [Try the text-to-numbers notebook](https://colab.research.google.com/github/bforbesc/Data-AI-with-Forbes/blob/main/notebooks/1-ai-fuel-from-text-to-tokens-to-tensors.ipynb) | Understand one small part of how AI processes language | A browser and a Google account to run it in Colab; no API key |
+| [Try the text-to-numbers notebook](https://colab.research.google.com/github/bforbesc/Data-AI-with-Forbes/blob/main/notebooks/ai-fuel-from-text-to-tokens-to-tensors.ipynb) | Understand one small part of how AI processes language | A browser and a Google account to run it in Colab; no API key |
 | [Explore groups in data](https://github.com/bforbesc/clustering-web-app#start-here-no-coding) | See how a computer groups similar observations without answer labels | The hosted app or a local copy; fictional sample included |
 | [Check an AI data assistant](https://github.com/bforbesc/Your-Data-Wrestler#start-here-no-coding) | Learn why an AI answer still needs checking | The sample and worksheet; a configured app for the AI part |
 | [Play Arita's Puppy Panic](https://github.com/bforbesc/arita-the-game#start-here-no-coding) | Learn how a small idea becomes rules, feedback, and a game | A browser and a local copy |
