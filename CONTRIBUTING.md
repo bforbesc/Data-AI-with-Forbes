@@ -14,7 +14,7 @@ Thanks for helping make Data & AI with Forbes useful to learners.
 
 ## Add a project or historical experiment
 
-1. Use [the project template](projects/TEMPLATE.md) as a writing guide. Add a section to [the project catalogue](projects/README.md), or create a separate project story if more detail is needed.
+1. Add a section to [the project catalogue](projects/README.md), or create a separate project story with the concept, tools, original source, and availability.
 2. Link to the original code and acknowledge collaborators and upstream templates. The catalogue centralizes discovery; each project repository remains the source for its implementation.
 3. Describe what someone can learn from the experiment. Distinguish observed behavior from proposed exercises and future improvements.
 4. Label historical context and deployment availability honestly. Do not invent dates or imply that an untested hosted app is working.

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/learning-banner.svg" alt="Data &amp; AI with Forbes — courses, examples, experiments and starter templates" width="100%">
+  <img src="assets/learning-banner.svg" alt="Data &amp; AI with Forbes — courses, examples and experiments" width="100%">
 </p>
 
 # 📚 Data & AI with Forbes
@@ -13,7 +13,6 @@ I'm Bernardo Forbes Costa, an AI/ML engineer and professor. This is the home bas
 [![Start here](https://img.shields.io/badge/Start_here-Beginner_guide-14b8a6?style=for-the-badge)](START_HERE.md)
 [![Courses](https://img.shields.io/badge/Learn-Courses_%26_notebooks-3b82f6?style=for-the-badge)](#-courses--notebooks)
 [![Projects](https://img.shields.io/badge/Explore-Project_library-8b5cf6?style=for-the-badge)](#-project-library)
-[![Templates](https://img.shields.io/badge/Build-Starter_templates-f59e0b?style=for-the-badge)](#-build-your-own)
 [![Resources](https://img.shields.io/badge/Read-References_%26_resources-ec4899?style=for-the-badge)](resources/README.md)
 
 ## 🧭 Choose your way in
@@ -24,7 +23,6 @@ I'm Bernardo Forbes Costa, an AI/ML engineer and professor. This is the home bas
 | Understand a topic through a small example | [Browse by concept](#-learn-by-concept) |
 | Follow a guided class | [Courses & notebooks](#-courses--notebooks) |
 | See how an idea became a project | [Project library](#-project-library) |
-| Build and publish a small data web app | [Streamlit starter and deployment lesson](templates/streamlit-starter/) |
 | Find books, courses, newsletters, videos, and articles | [References & resources](resources/README.md) |
 
 ## 🧠 Learn by concept
@@ -39,7 +37,7 @@ The ideas matter beyond any one library. Learn what a step achieves and how to c
 | 🧩 **Unsupervised machine learning** | What groups appear when I do not provide answer labels? | [Clustering case study](https://github.com/bforbesc/clustering-web-app) |
 | ✨ **Generative AI** | How does a model turn instructions and context into an answer? | [Text to tokens to tensors](notebooks/1-ai-fuel-from-text-to-tokens-to-tensors.ipynb), then [the GenAI course](notebooks/genai-day/) |
 | 🛠️ **AI agents** | What changes when a model can choose tools and steps? | [The hotel-assistant course](notebooks/genai-day/) and [Your Data Wrestler](https://github.com/bforbesc/Your-Data-Wrestler) |
-| 🌐 **Web apps & deployment** | How can someone else interact with my work in a browser? | [Build and publish a data app](templates/streamlit-starter/), then [the GDP case study](https://github.com/bforbesc/gdp-dashboard) |
+| 🌐 **Web apps & deployment** | How can someone else interact with my work in a browser? | [GDP Dashboard case study](https://github.com/bforbesc/gdp-dashboard) |
 | 🎮 **Prototyping with AI tools** | How do I turn an idea into rules, feedback, and a testable result? | [Arita's Puppy Panic](https://github.com/bforbesc/arita-the-game) |
 
 ## 🎓 Courses & notebooks
@@ -73,19 +71,13 @@ A **library** supplies reusable building blocks. A **framework** helps structure
 
 | Name | Why you might use it | Where it appears here |
 |---|---|---|
-| **Pandas** | Work with tables: inspect, filter, clean, reshape, and summarize | The data case studies and the web-app starter |
-| **Plotly** | Create interactive charts | Clustering, Data Wrestler, and the starter |
+| **Pandas** | Work with tables: inspect, filter, clean, reshape, and summarize | The data case studies |
+| **Plotly** | Create interactive charts | Clustering and Data Wrestler |
 | **Seaborn** | Make statistical charts from tables | A related visualization library taught alongside these concepts; not used in the four case studies |
 | **scikit-learn** (`sklearn`) | Prepare data, fit machine-learning models, and evaluate them | The first classifier and clustering |
 | **TensorFlow** | Build and train neural networks | A related framework for further study; not used in the four case studies. The existing fine-tuning notebook uses PyTorch instead. |
-| **Streamlit** | Turn a Python script into a web app with controls, tables, and charts | The three data case studies and the starter |
+| **Streamlit** | Turn a Python script into a web app with controls, tables, and charts | The three data case studies |
 | **Strands Agents / OpenAI** | Connect a language model with data-inspection tools | Data Wrestler; the GenAI course explores model calls and other agent patterns |
-
-## 🚀 Build your own
-
-| Starter | What you can make | What comes with it |
-|---|---|---|
-| 🌐 [Your first data web app](templates/streamlit-starter/) | An interactive chart from a tiny fictional table | Commented code, sample data inside the script, guided changes, and a deployment walkthrough |
 
 ## 📖 References & resources
 

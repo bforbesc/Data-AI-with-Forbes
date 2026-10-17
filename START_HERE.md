@@ -8,7 +8,7 @@ Courses, notebooks, and project examples for students exploring data and AI. The
 
 Start with a question: preparing a table is **data transformation**; choosing a chart is **visualization**; predicting from known answers is **supervised learning**; finding groups without answers is **unsupervised learning**. The hub links each topic to a small example and names the tools used to implement it.
 
-The [first-classifier notebook](notebooks/3-first-classifier.ipynb) introduces supervised learning. The [data web-app starter and deployment lesson](templates/streamlit-starter/) covers building and publishing an interactive chart.
+The [first-classifier notebook](notebooks/3-first-classifier.ipynb) introduces supervised learning.
 
 ## Choose your first activity
 

@@ -99,7 +99,3 @@ python3 -m http.server 4173 --bind 127.0.0.1
 ```
 
 Open [localhost:4173](http://localhost:4173), press **Start round**, and use the arrow keys or drag on the game area. These commands replace the author-specific absolute folder path shown in the original README. A hosted deployment is not listed here.
-
-## Add the next experiment
-
-Use the [project template](TEMPLATE.md) to record the motivation, original source, what someone can learn, and what you would do differently today. Add a short entry to the home page so the collection remains easy to discover.
