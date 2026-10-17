@@ -25,11 +25,11 @@ Open [app.py](app.py). You do not need to understand the imports. Find the six o
 | Books | €60 | 3 | 1 |
 | Games | €100 | 3 | 1 |
 
-Find the code comments marked **DATA**, **INPUT**, **TRANSFORM**, and **OUTPUT**. Explain each step in your own words. The file [requirements.txt](requirements.txt) lists the libraries the app needs; it is the app's list of dependencies.
+Find the code comments marked **DATA**, **INPUT**, **TRANSFORM**, and **OUTPUT**. The file [requirements.txt](requirements.txt) lists the libraries the app needs; it is the app's list of dependencies.
 
 ## 2. Run a copy locally
 
-A teacher can demonstrate this, or help you set it up. You need Python installed; use Python 3.11–3.13 for this starter (verified here on Python 3.13). On GitHub, choose **Code → Download ZIP** for the hub, extract it, and open a terminal in `templates/streamlit-starter` inside that extracted folder.
+You need Python installed; use Python 3.11–3.13 for this starter (verified here on Python 3.13). On GitHub, choose **Code → Download ZIP** for the hub, extract it, and open a terminal in `templates/streamlit-starter` inside that extracted folder.
 
 ```bash
 python -m venv .venv
@@ -47,8 +47,6 @@ Open the local address printed by Streamlit, usually `http://localhost:8501`. Tr
 ## 3. Make one change
 
 Add another Books order worth €15 to the list in `app.py`. Predict the new totals before saving: **Books €75**, **Games €100**, **All €175**. Refresh or let Streamlit rerun. Then change the question, title, or categories for a tiny project of your own. Keep the units visible.
-
-You can ask an AI coding assistant: “Explain the four commented stages without changing the code,” or “Help me add one record and show how to check the totals.” Check its changes against the table yourself.
 
 ## 4. Publish your own copy
 
