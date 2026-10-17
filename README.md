@@ -1,4 +1,4 @@
-<img src="assets/learning-banner.svg" alt="Data &amp; AI with Forbes" width="100%">
+<img src="assets/learning-banner.svg?v=7b45e45" alt="Data &amp; AI with Forbes" width="100%">
 
 **Understand the ideas. Recognize the tools. Learn by trying.**
 
