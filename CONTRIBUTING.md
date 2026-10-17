@@ -1,5 +1,7 @@
 # Contributing
 
+[📚 Learning hub](https://github.com/bforbesc/data-ai-with-forbes) · [🧭 Beginner guide](https://github.com/bforbesc/data-ai-with-forbes/blob/main/START_HERE.md)
+
 Thanks for helping make Data & AI with Forbes useful to learners.
 
 ## Questions and fixes

@@ -1,6 +1,6 @@
 # Start here: you do not need to be a programmer
 
-[← Home](README.md)
+[📚 Learning hub](https://github.com/bforbesc/data-ai-with-forbes) · [🧭 Beginner guide](https://github.com/bforbesc/data-ai-with-forbes/blob/main/START_HERE.md)
 
 Courses, notebooks, and project examples for students exploring data and AI. The resources below include browser-based examples and optional code.
 

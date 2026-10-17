@@ -1,6 +1,6 @@
 # Projects & experiments
 
-[← Back to the home base](../README.md)
+[📚 Learning hub](https://github.com/bforbesc/data-ai-with-forbes) · [🧭 Beginner guide](https://github.com/bforbesc/data-ai-with-forbes/blob/main/START_HERE.md)
 
 These projects document my experiments with data, software, and AI tools over the years. They are here as historical references and teaching material: what I tried, what the result does, and the questions we can still learn from it.
 

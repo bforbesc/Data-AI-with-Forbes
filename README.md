@@ -63,7 +63,7 @@ Each notebook combines explanations, runnable code, and a small activity. **Cola
 
 [Browse the reading and resource library →](resources/README.md)
 
-Books such as **AI Engineering**, courses from **Hugging Face** and **DeepLearning.AI**, newsletters including **The Batch** and **AlphaSignal**, my curated playlist on the maths behind LLMs, and [my articles](resources/README.md#my-articles). Each entry describes its topic and links to the source.
+Books such as **AI Engineering**, courses from **Hugging Face** and **DeepLearning.AI**, newsletters including **The Batch** and **AlphaSignal**, my curated playlist on the maths behind LLMs, and [my articles](resources/README.md#-my-articles). Each entry describes its topic and links to the source.
 
 ## 🧰 The tools, in context
 
