@@ -2,8 +2,6 @@
 
 **Understand the ideas. Recognize the tools. Learn by trying.**
 
-I'm Bernardo Forbes Costa, an AI/ML engineer and professor. This is the home base for my courses, teaching notebooks, practical examples, and experiments with data, software, and AI over the years.
-
 **No coding experience needed to start.** Browse the explanations, examples, and resources, with code available alongside them.
 
 [![Start here](https://img.shields.io/badge/Start_here-Beginner_guide-14b8a6?style=for-the-badge)](START_HERE.md)
