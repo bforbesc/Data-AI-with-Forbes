@@ -2,9 +2,9 @@
 
 [← Learning hub](../README.md) · [Beginner guide](../START_HERE.md) · [Courses & examples](../README.md#-courses--notebooks)
 
-Books, courses, newsletters, videos, and articles I recommend for exploring data and AI.
+Books, courses, newsletters, videos, engineering articles, and agent resources I recommend for exploring data and AI.
 
-[Books](#books) · [Courses](#courses) · [Newsletters](#newsletters) · [Videos](#videos) · [My articles](#my-articles)
+[Books](#books) · [Courses](#courses) · [Engineering & agents](#engineering--agents) · [Newsletters](#newsletters) · [Videos](#videos) · [My articles](#my-articles)
 
 ## Books
 
@@ -20,6 +20,15 @@ Building applications with foundation models: evaluation, prompting, retrieval, 
 |---|---|---|
 | [Hugging Face Learn](https://huggingface.co/learn) | Language models, agents, and other areas of machine learning, with explanations and notebooks | Prerequisites vary; technical tracks may assume Python and machine-learning knowledge. |
 | [DeepLearning.AI courses](https://www.deeplearning.ai/courses) | Foundational programmes and focused short courses across AI topics | Introductory and more advanced options; each listing describes prerequisites and access. |
+| [Claude Academy — AI Fluency](https://academy.claude.com/collections/ai-fluency) | AI capabilities, limitations, and collaboration, including the 4D framework | Foundational courses and short tutorials; includes a student edition. |
+
+## Engineering & agents
+
+| Resource | Coverage |
+|---|---|
+| [Anthropic Engineering](https://www.anthropic.com/engineering) | Technical articles on building AI systems, agents, tools, context, and evaluation |
+| **[Building effective agents — Anthropic](https://www.anthropic.com/engineering/building-effective-agents)** | Agent and workflow patterns, including prompt chaining, routing, parallel steps, and model-directed tool use |
+| [skills.sh — Agent Skills Directory](https://www.skills.sh/) | A directory of reusable skills for AI coding agents, with links to their source repositories |
 
 ## Newsletters
 
