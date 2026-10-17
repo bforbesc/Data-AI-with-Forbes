@@ -86,7 +86,6 @@ A **library** supplies reusable building blocks. A **framework** helps structure
 | Starter | What you can make | What comes with it |
 |---|---|---|
 | 🌐 [Your first data web app](templates/streamlit-starter/) | An interactive chart from a tiny fictional table | Commented code, sample data inside the script, guided changes, and a deployment walkthrough |
-| 📝 [Document a project or experiment](projects/TEMPLATE.md) | A teaching case study someone else can learn from | Prompts for the concept, tools, first activity, limitations, and reflection |
 
 ## 📖 References & resources
 
