@@ -65,25 +65,25 @@ Each notebook combines explanations, runnable code, and a small activity. **Cola
 
 [Read the project stories →](projects/README.md)
 
+## 📖 References & resources
+
+[Browse the reading and resource library →](resources/README.md)
+
+Books such as **AI Engineering**, courses from **Hugging Face** and **DeepLearning.AI**, newsletters including **The Batch** and **AlphaSignal**, my curated playlist on the maths behind LLMs, and [my articles](resources/README.md#my-articles). Each entry describes its topic and links to the source.
+
 ## 🧰 The tools, in context
 
 A **library** supplies reusable building blocks. A **framework** helps structure an application. Recognizing a name is useful; understanding the problem it solves is more transferable.
 
 | Name | Why you might use it | Where it appears here |
 |---|---|---|
-| **Pandas** | Work with tables: inspect, filter, clean, reshape, and summarize | The data case studies |
-| **Plotly** | Create interactive charts | Clustering and Data Wrestler |
-| **Seaborn** | Make statistical charts from tables | A related visualization library taught alongside these concepts; not used in the four case studies |
-| **scikit-learn** (`sklearn`) | Prepare data, fit machine-learning models, and evaluate them | The first classifier and clustering |
-| **TensorFlow** | Build and train neural networks | A related framework for further study; not used in the four case studies. The existing fine-tuning notebook uses PyTorch instead. |
-| **Streamlit** | Turn a Python script into a web app with controls, tables, and charts | The three data case studies |
-| **Strands Agents / OpenAI** | Connect a language model with data-inspection tools | Data Wrestler; the GenAI course explores model calls and other agent patterns |
-
-## 📖 References & resources
-
-[Browse the reading and resource library →](resources/README.md)
-
-Books such as **AI Engineering**, courses from **Hugging Face** and **DeepLearning.AI**, newsletters including **The Batch** and **AlphaSignal**, my curated playlist on the maths behind LLMs, and [my articles](resources/README.md#my-articles). Each entry describes its topic and links to the source.
+| **[Pandas](https://pandas.pydata.org/docs/)** | Work with tables: inspect, filter, clean, reshape, and summarize | The data case studies |
+| **[Plotly](https://plotly.com/python/)** | Create interactive charts | Clustering and Data Wrestler |
+| **[Seaborn](https://seaborn.pydata.org/)** | Make statistical charts from tables | A related visualization library taught alongside these concepts; not used in the four case studies |
+| **[scikit-learn](https://scikit-learn.org/stable/)** (`sklearn`) | Prepare data, fit machine-learning models, and evaluate them | The first classifier and clustering |
+| **[TensorFlow](https://www.tensorflow.org/learn)** | Build and train neural networks | A related framework for further study; not used in the four case studies. The existing fine-tuning notebook uses PyTorch instead. |
+| **[Streamlit](https://docs.streamlit.io/)** | Turn a Python script into a web app with controls, tables, and charts | The three data case studies |
+| **[Strands Agents](https://strandsagents.com/docs/user-guide/sdk/quickstart/overview/)** / **[OpenAI](https://developers.openai.com/api/reference/overview)** | Connect a language model with data-inspection tools | Data Wrestler; the GenAI course explores model calls and other agent patterns |
 
 ## 🤝 Questions and contributions
 
