@@ -10,6 +10,8 @@ The code stays in its original repository. This catalogue connects the projects 
 
 ## GDP Dashboard
 
+**New to coding? [Start with the guided activity](https://github.com/bforbesc/gdp-dashboard#start-here-no-coding).**
+
 **Experiment:** turning country GDP data into an interactive Streamlit dashboard. This repository uses a GDP dashboard template; it is a reference for learning through adaptation.
 
 [Source code](https://github.com/bforbesc/gdp-dashboard) · [App entry point](https://github.com/bforbesc/gdp-dashboard/blob/main/streamlit_app.py)
@@ -29,6 +31,8 @@ The app reshapes a wide CSV into country–year observations, filters countries 
 
 ## Clustering Web App
 
+**New to coding? [Start with the guided activity](https://github.com/bforbesc/clustering-web-app#start-here-no-coding).**
+
 **Experiment:** making unsupervised learning explorable through a Streamlit app for cross-sectional data.
 
 [Source code](https://github.com/bforbesc/clustering-web-app) · [App entry point](https://github.com/bforbesc/clustering-web-app/blob/main/ml-web-app.py) · [Hosted link from the original README](https://clustering-web-app.streamlit.app)
@@ -44,9 +48,11 @@ The app takes a CSV, preprocesses features, fits KMeans, compares cluster counts
 
 **Revisit with today's tools:** rebuild the demo with explicit validation, reproducible random seeds, and explanations of what the metrics do and do not establish.
 
-**Context:** this is an older implementation and uses older library APIs, so dependency updates may be necessary. The Davies–Bouldin index is non-negative and lower is better; it is not bounded above by 1, despite the explanation in the original app. The original README credits [Data Professor](https://github.com/dataprofessor) as inspiration.
+**Context:** this is an older implementation and uses older library APIs, so dependency updates may be necessary. The Davies–Bouldin index is non-negative and lower is better; it is not bounded above by 1. The original README credits [Data Professor](https://github.com/dataprofessor) as inspiration.
 
 ## Your Data Wrestler
+
+**New to coding? [Start with the guided activity](https://github.com/bforbesc/Your-Data-Wrestler#start-here-no-coding).**
 
 **Experiment:** an agent that helps wrestle raw data into something you can explore, clean, and visualize.
 
@@ -67,11 +73,13 @@ The Streamlit app combines data uploads, natural-language questions, cleaning su
 
 ## Arita's Puppy Panic
 
+**New to coding? [Start with the guided activity](https://github.com/bforbesc/arita-the-game#start-here-no-coding).**
+
 **Experiment:** gaming as a playful way to explore building with AI tools.
 
 [Source code](https://github.com/bforbesc/arita-the-game) · [Game description](https://github.com/bforbesc/arita-the-game#readme)
 
-A tiny browser game about protecting a dog from everyday chaos: move left and right, collect bones, hearts, and toys, and avoid poop, brooms, and baths. Reaching the target score reveals a hidden background photo as a reward.
+A tiny browser game about protecting a dog from everyday chaos: move left and right, collect bones, hearts, and toys, and avoid poop, brooms, and baths. Reaching the target score reveals a generated puppy picture as a reward.
 
 **Learn from it**
 
@@ -87,7 +95,7 @@ A tiny browser game about protecting a dog from everyday chaos: move left and ri
 ```bash
 git clone https://github.com/bforbesc/arita-the-game.git
 cd arita-the-game
-python3 -m http.server 4173
+python3 -m http.server 4173 --bind 127.0.0.1
 ```
 
 Open [localhost:4173](http://localhost:4173), press **Start round**, and use the arrow keys or drag on the game area. These commands replace the author-specific absolute folder path shown in the original README. A hosted deployment is not listed here.
