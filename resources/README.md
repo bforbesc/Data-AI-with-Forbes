@@ -4,8 +4,6 @@
 
 Books, courses, videos, engineering articles, and resources I recommend for exploring data and AI.
 
-📚 [Books](#-books) · 🎓 [Courses](#-courses) · 🧪 [Interactive demos](#-interactive-demos) · 🔧 [Engineering & agents](#-engineering--agents) · 📬 [Newsletters](#-newsletters) · 🎬 [Videos](#-videos) · ✍ [My articles](#-my-articles)
-
 ## 📚 Books
 
 | Resource | Coverage |
@@ -47,7 +45,7 @@ Books, courses, videos, engineering articles, and resources I recommend for expl
 | Resource | Coverage |
 |---|---|
 | <img src="../assets/resource-icons/youtube.svg" width="28" height="28" alt="YouTube"> **[3Blue1Brown](https://www.youtube.com/@3blue1brown)** | Visual explanations of mathematics, including linear algebra, calculus, neural networks, and transformers. |
-| <img src="../assets/resource-icons/youtube.svg" width="28" height="28" alt="YouTube"> **[My curated playlist: the maths behind LLMs](https://www.youtube.com/watch?v=AsNTP8Kwu80&list=PLYhRPCyrSUlpqhQZ8xG1Lqo-Oy8UyOI7Y)** | Videos I've brought together to explain the mathematical ideas behind large language models. The videos belong to their respective creators. |
+| <img src="../assets/resource-icons/youtube.svg" width="28" height="28" alt="YouTube"> **[LLMs Simply & Clearly Explained](https://www.youtube.com/watch?v=AsNTP8Kwu80&list=PLYhRPCyrSUlpqhQZ8xG1Lqo-Oy8UyOI7Y)** | Videos I've brought together to explain the mathematical ideas behind large language models. The videos belong to their respective creators. |
 
 ## ✍ My articles
 
