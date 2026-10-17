@@ -8,6 +8,14 @@
 
 [Source code](REPLACE_WITH_SOURCE_URL)
 
+## Concepts and tools
+
+Name the general topics first (for example, data transformation, visualization, supervised learning, unsupervised learning, generative AI, agents, or deployment). Explain the idea in a sentence, then identify only the libraries actually used and their role.
+
+## First activity for a beginner
+
+Give a question, a tiny sample or worksheet, steps to try, and an answer learners can check. Include a reading-only route when the historical app no longer runs.
+
 ## What it does
 
 Describe the result, the approach, and the tools actually used. Credit templates, collaborators, and other sources of inspiration.

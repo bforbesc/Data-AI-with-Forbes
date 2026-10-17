@@ -1,56 +1,102 @@
-# Data & AI with Forbes
+<p align="center">
+  <img src="assets/learning-banner.svg" alt="Data &amp; AI with Forbes — courses, examples, experiments and starter templates" width="100%">
+</p>
 
-**Learn by doing. Build useful tools. Keep the experiments.**
+# 📚 Data & AI with Forbes
 
-I'm Bernardo Forbes Costa. This is the home base for my data and AI learning content, practical tools, and experiments built over the years: from Streamlit dashboards and unsupervised learning to data agents and a browser game.
+**Understand the ideas. Recognize the tools. Learn by trying.**
 
-Some projects are historical references. Tools have evolved and many things are easier to build today, but the questions, design choices, and lessons are still useful. Here you'll find the teaching notebooks alongside the projects that put those ideas into practice.
+I'm Bernardo Forbes Costa, an AI/ML engineer and professor. This is the home base for my courses, teaching notebooks, practical examples, and experiments with data, software, and AI over the years.
 
-[Learning notebooks](#learning-notebooks) · [Projects & experiments](#projects--experiments) · [Project stories](projects/README.md) · [LinkedIn](https://www.linkedin.com/in/bernardoforbescosta/)
+**You do not need to be a programmer to start.** Begin with a question, explore a small example, and explain what happened. Code is there when you want to look deeper.
 
-## Start here
+[![Start here](https://img.shields.io/badge/Start_here-Beginner_guide-14b8a6?style=for-the-badge)](START_HERE.md)
+[![Courses](https://img.shields.io/badge/Learn-Courses_%26_notebooks-3b82f6?style=for-the-badge)](#-courses--notebooks)
+[![Projects](https://img.shields.io/badge/Explore-Project_library-8b5cf6?style=for-the-badge)](#-project-library)
+[![Templates](https://img.shields.io/badge/Build-Starter_templates-f59e0b?style=for-the-badge)](#-build-your-own)
 
-| If you want to… | Start with… |
+## 🧭 Choose your way in
+
+| You want to… | Your starting point |
 |---|---|
-| Understand how text becomes input to an AI model | **AI's fuel: From Text to Tokens to Tensors**, below |
-| Work through a hands-on GenAI course | [Generative AI and AI Agents](notebooks/genai-day/) |
-| Explore dashboards, clustering, and data agents | [Projects & experiments](projects/README.md) |
-| See a playful experiment in building a game | [Arita's Puppy Panic](projects/README.md#aritas-puppy-panic) |
+| Get comfortable with the basics | [Start here: a guide for beginners](START_HERE.md) |
+| Understand a topic through a small example | [Browse by concept](#-learn-by-concept) |
+| Follow a guided class | [Courses & notebooks](#-courses--notebooks) |
+| See how an idea became a project | [Project library](#-project-library) |
+| Build and publish a small data web app | [Streamlit starter and deployment lesson](templates/streamlit-starter/) |
 
-## Projects & experiments
+## 🧠 Learn by concept
 
-A collection of my past and ongoing experiments, centralized here as teaching references. The original repositories hold the code; the [project catalogue](projects/README.md) explains what each one explores and how to learn from it.
+The ideas matter beyond any one library. Learn what a step achieves and how to check it; the tools are examples of ways to do that work.
 
-| Project | The experiment | Teaching angle |
+| Topic | The first question | Start with |
 |---|---|---|
-| [GDP Dashboard](https://github.com/bforbesc/gdp-dashboard) | An interactive GDP dashboard built with Streamlit, based on a dashboard template | Turn a table into an interactive story; examine filtering, missing data, and comparisons |
-| [Clustering Web App](https://github.com/bforbesc/clustering-web-app) | An unsupervised learning demo using KMeans and t-SNE | Explore how preprocessing and cluster choices change what you see |
-| [Your Data Wrestler](https://github.com/bforbesc/Your-Data-Wrestler) | An agent that helps explore, clean, and visualize data | Compare AI suggestions with checks you can reproduce yourself |
-| [Arita's Puppy Panic](https://github.com/bforbesc/arita-the-game) | A playful browser game and experiment in building with AI tools | Explore prototyping, game rules, feedback, and iteration |
+| 🧹 **Data transformation** | How do I turn a messy table into something I can use? | [Data basics notebook](notebooks/2-data-basics.ipynb), then [Your Data Wrestler](https://github.com/bforbesc/Your-Data-Wrestler) |
+| 📊 **Data visualization** | Which chart helps me answer this question honestly? | [Data basics notebook](notebooks/2-data-basics.ipynb) and [GDP Dashboard](https://github.com/bforbesc/gdp-dashboard) |
+| 🎯 **Supervised machine learning** | Can examples with known answers help predict a new answer? | [A first classification notebook](notebooks/3-first-classifier.ipynb) |
+| 🧩 **Unsupervised machine learning** | What groups appear when I do not provide answer labels? | [Clustering case study](https://github.com/bforbesc/clustering-web-app) |
+| ✨ **Generative AI** | How does a model turn instructions and context into an answer? | [Text to tokens to tensors](notebooks/1-ai-fuel-from-text-to-tokens-to-tensors.ipynb), then [the GenAI course](notebooks/genai-day/) |
+| 🛠️ **AI agents** | What changes when a model can choose tools and steps? | [The hotel-assistant course](notebooks/genai-day/) and [Your Data Wrestler](https://github.com/bforbesc/Your-Data-Wrestler) |
+| 🌐 **Web apps & deployment** | How can someone else interact with my work in a browser? | [Build and publish a data app](templates/streamlit-starter/), then [the GDP case study](https://github.com/bforbesc/gdp-dashboard) |
+| 🎮 **Prototyping with AI tools** | How do I turn an idea into rules, feedback, and a testable result? | [Arita's Puppy Panic](https://github.com/bforbesc/arita-the-game) |
 
-These are references to explore and discuss, with different levels of maturity. A source link is not a guarantee that a hosted demo is running or that older dependencies work with today's environment. See each [project story](projects/README.md) for context and original links.
+## 🎓 Courses & notebooks
 
-## Learning notebooks
+Each notebook combines explanations, runnable code, and a small activity. **Colab** runs the notebook in your browser; see [the beginner guide](START_HERE.md) for your first steps.
 
-Teaching notebooks for data and AI, clearly and simply explained. Each notebook runs in Google Colab and illustrates ideas hands-on, for students, professionals, and anyone curious. Some come with a LinkedIn article.
+| Resource | What you learn | Open and try | Before you begin |
+|---|---|---|---|
+| **AI's fuel: From Text to Tokens to Tensors** | Turn a sentence into tokens, vocabulary indices, vectors, and a tensor | [Open in Colab](https://colab.research.google.com/github/bforbesc/Data-AI-with-Forbes/blob/main/notebooks/1-ai-fuel-from-text-to-tokens-to-tensors.ipynb) · [Read the article](https://www.linkedin.com/pulse/ais-fuel-from-text-tokens-tensors-bernardo-forbes-costa-phd-bhyhf) | Beginner; no API key |
+| **Data basics: a table becomes a chart** | Inspect rows, handle a duplicate and a missing value, group totals, and draw a chart | [Open in Colab](https://colab.research.google.com/github/bforbesc/Data-AI-with-Forbes/blob/main/notebooks/2-data-basics.ipynb) | Beginner; fictional data; no API key |
+| **Your first classifier** | Learn the difference between known labels and predictions; separate training and testing; compare with a simple baseline | [Open in Colab](https://colab.research.google.com/github/bforbesc/Data-AI-with-Forbes/blob/main/notebooks/3-first-classifier.ipynb) | Guided introduction; fictional data; no API key |
+| **Generative AI and AI Agents** — full-day course | Build an assistant for a fictional hotel: prompting, context, retrieval, tools, agents, and evaluation | [Course guide](notebooks/genai-day/) · [Open in Colab](https://colab.research.google.com/github/bforbesc/Data-AI-with-Forbes/blob/main/notebooks/genai-day/genai_day.ipynb) | Guided class; paid API access required |
+| **GenAI final challenge** | Configure the hotel concierge and test it on ten emails | [Open in Colab](https://colab.research.google.com/github/bforbesc/Data-AI-with-Forbes/blob/main/notebooks/genai-day/final_challenge.ipynb) | After the course, or with an instructor; paid API access |
+| **Model fine-tuning** — instructor extension | Adapt a tiny open model's style and examine what fine-tuning does not change | [Open in Colab](https://colab.research.google.com/github/bforbesc/Data-AI-with-Forbes/blob/main/notebooks/genai-day/model_finetuning.ipynb) · [Resulting model](https://huggingface.co/bforbesc/smollm2-135m-hotel-silencio) | Optional; a T4 GPU is recommended |
 
-| Title | What it covers | Notebook | Article |
-|-------|----------------|----------|---------|
-| **AI's fuel: From Text to Tokens to Tensors** | Converts a sentence into tokens, maps them to indices, builds one-hot vectors, and stacks them into a tensor. | [![Open in Colab](https://img.shields.io/badge/Open-Colab-yellow?logo=google-colab)](https://colab.research.google.com/github/bforbesc/Data-AI-with-Forbes/blob/main/notebooks/1-ai-fuel-from-text-to-tokens-to-tensors.ipynb) | [Read](https://www.linkedin.com/pulse/ais-fuel-from-text-tokens-tensors-bernardo-forbes-costa-phd-bhyhf) |
-| **Generative AI and AI Agents** (full-day course) | From tokens to a working AI agent for a fictional hotel: APIs, LLM calls, prompting, embeddings, RAG, tool calling, the ReAct loop, LangChain, prompt injection and toy fine-tuning. [More](notebooks/genai-day/) | [![Open in Colab](https://img.shields.io/badge/Open-Colab-yellow?logo=google-colab)](https://colab.research.google.com/github/bforbesc/Data-AI-with-Forbes/blob/main/notebooks/genai-day/genai_day.ipynb) | |
-| **Generative AI and AI Agents: final challenge** | Configure an AI concierge as a workflow or an agent and score it on ten test emails. | [![Open in Colab](https://img.shields.io/badge/Open-Colab-yellow?logo=google-colab)](https://colab.research.google.com/github/bforbesc/Data-AI-with-Forbes/blob/main/notebooks/genai-day/final_challenge.ipynb) | |
-| **Generative AI and AI Agents: model fine-tuning** | Fine-tune a tiny open model (SmolLM2-135M) on 60 examples to change its style, and see what fine-tuning does not change. Result on [Hugging Face](https://huggingface.co/bforbesc/smollm2-135m-hotel-silencio). | [![Open in Colab](https://img.shields.io/badge/Open-Colab-yellow?logo=google-colab)](https://colab.research.google.com/github/bforbesc/Data-AI-with-Forbes/blob/main/notebooks/genai-day/model_finetuning.ipynb) | |
+## 🗂️ Project library
 
+**Historical experiments, revisited as teaching case studies.** These are here to show how an idea was put together, which frameworks were used, and what we can learn from the choices. They are not presented as current production tools. Start with the explanations and samples; running the older apps is optional.
 
-## How to use this home base
+| Case study | What it teaches | Tools you will recognize | First activity |
+|---|---|---|---|
+| 📊 [GDP Dashboard](https://github.com/bforbesc/gdp-dashboard) | Data transformation, visualization, interactive web apps | Pandas, Streamlit | Compare two date ranges and explain why the story changes |
+| 🧩 [Clustering Web App](https://github.com/bforbesc/clustering-web-app) | Unsupervised learning, preprocessing, comparing groups | Pandas, scikit-learn, Plotly, Streamlit | Group fictional shop visits with 2, 3, and 4 clusters |
+| 🤼 [Your Data Wrestler](https://github.com/bforbesc/Your-Data-Wrestler) | Data cleaning, visualization, generative AI, agents, verification | Pandas, Plotly, Streamlit, Strands Agents, OpenAI | Check an assistant against a tiny order table with known issues |
+| 🎮 [Arita's Puppy Panic](https://github.com/bforbesc/arita-the-game) | Prototyping, rules, feedback, building with AI tools | HTML, CSS, JavaScript | Predict a score, play a round, then change one rule |
 
-1. **Pick an idea.** Open a notebook in Colab, or choose a project from the catalogue.
-2. **Try it and question it.** Run notebook cells from top to bottom; use the project discussion prompts to investigate a design choice.
-3. **Make it yours.** Change an input, compare outcomes, or sketch how you would rebuild an older experiment with today's tools.
-4. **Share what you learn.** [Open an issue](https://github.com/bforbesc/Data-AI-with-Forbes/issues) with a question, a broken link, or a lesson suggestion. See [Contributing](CONTRIBUTING.md) to add material.
+[Read the project stories →](projects/README.md)
 
-Follow along on [LinkedIn](https://www.linkedin.com/in/bernardoforbescosta/) and watch or star this repo for new content.
+## 🧰 The tools, in context
 
-## Reuse and attribution
+A **library** supplies reusable building blocks. A **framework** helps structure an application. Recognizing a name is useful; understanding the problem it solves is more transferable.
 
-This repository is shared under the [MIT License](LICENSE). Linked projects, datasets, and other third-party resources retain their own licenses and attribution requirements; check the original source before reusing them.
+| Name | Why you might use it | Where it appears here |
+|---|---|---|
+| **Pandas** | Work with tables: inspect, filter, clean, reshape, and summarize | Data basics, the data case studies, and the web-app starter |
+| **Plotly** | Create interactive charts | Data basics, clustering, Data Wrestler, and the starter |
+| **Seaborn** | Make statistical charts from tables | A related visualization library taught alongside these concepts; not used in the four case studies |
+| **scikit-learn** (`sklearn`) | Prepare data, fit machine-learning models, and evaluate them | The first classifier and clustering |
+| **TensorFlow** | Build and train neural networks | A related framework for further study; not used in the four case studies. The existing fine-tuning notebook uses PyTorch instead. |
+| **Streamlit** | Turn a Python script into a web app with controls, tables, and charts | The three data case studies and the starter |
+| **Strands Agents / OpenAI** | Connect a language model with data-inspection tools | Data Wrestler; the GenAI course explores model calls and other agent patterns |
+
+You do not need all of these at once. Begin with **question → data → method → result → check**, then choose the tools that help.
+
+## 🚀 Build your own
+
+| Starter | What you can make | What comes with it |
+|---|---|---|
+| 🌐 [Your first data web app](templates/streamlit-starter/) | An interactive chart from a tiny fictional table | Commented code, sample data inside the script, guided changes, and a deployment walkthrough |
+| 📝 [Document a project or experiment](projects/TEMPLATE.md) | A teaching case study someone else can learn from | Prompts for the concept, tools, first activity, limitations, and reflection |
+
+AI tools can help write or change code. Ask them to explain a step, predict the effect of a change, and help test it. The learning goal is to understand and check the result, even when creating the code becomes easier.
+
+## 🤝 Learn together
+
+For students: change one thing, record what happened, and explain what you can verify. For teachers: use the guided activities, fictional samples, and worked answers as starting points for a lesson.
+
+[Ask a question or report a broken link](https://github.com/bforbesc/Data-AI-with-Forbes/issues) · [Contribute material](CONTRIBUTING.md) · [Follow on LinkedIn](https://www.linkedin.com/in/bernardoforbescosta/)
+
+## 📄 Reuse and credits
+
+This repository's code and teaching material use the [MIT License](LICENSE). Linked projects, third-party datasets, and other resources keep their own licenses and attribution requirements. Older project deployments and dependencies may need maintenance; the worksheets are available even when an app is not running.
