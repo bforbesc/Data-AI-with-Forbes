@@ -14,6 +14,7 @@ I'm Bernardo Forbes Costa, an AI/ML engineer and professor. This is the home bas
 [![Courses](https://img.shields.io/badge/Learn-Courses_%26_notebooks-3b82f6?style=for-the-badge)](#-courses--notebooks)
 [![Projects](https://img.shields.io/badge/Explore-Project_library-8b5cf6?style=for-the-badge)](#-project-library)
 [![Templates](https://img.shields.io/badge/Build-Starter_templates-f59e0b?style=for-the-badge)](#-build-your-own)
+[![Resources](https://img.shields.io/badge/Read-References_%26_resources-ec4899?style=for-the-badge)](resources/README.md)
 
 ## 🧭 Choose your way in
 
@@ -24,6 +25,7 @@ I'm Bernardo Forbes Costa, an AI/ML engineer and professor. This is the home bas
 | Follow a guided class | [Courses & notebooks](#-courses--notebooks) |
 | See how an idea became a project | [Project library](#-project-library) |
 | Build and publish a small data web app | [Streamlit starter and deployment lesson](templates/streamlit-starter/) |
+| Find books, courses, newsletters, videos, and articles | [References & resources](resources/README.md) |
 
 ## 🧠 Learn by concept
 
@@ -90,6 +92,12 @@ You do not need all of these at once. Begin with **question → data → method 
 | 📝 [Document a project or experiment](projects/TEMPLATE.md) | A teaching case study someone else can learn from | Prompts for the concept, tools, first activity, limitations, and reflection |
 
 AI tools can help write or change code. Ask them to explain a step, predict the effect of a change, and help test it. The learning goal is to understand and check the result, even when creating the code becomes easier.
+
+## 📖 References & resources
+
+[Browse the reading and resource library →](resources/README.md)
+
+Books such as **AI Engineering**, courses from **Hugging Face** and **DeepLearning.AI**, newsletters including **The Batch** and **AlphaSignal**, my curated playlist on the maths behind LLMs, and [my articles](resources/README.md#my-articles). Each entry includes a starting point or a question to explore.
 
 ## 🤝 Learn together
 

@@ -64,3 +64,7 @@ The main course and final challenge call a paid external AI service and need an 
 Begin with a question, demonstrate one result, then let students change one thing. Ask them to record **what they expected**, **what happened**, and **what they can verify**. A short explanation of an observed result is a useful outcome even when nobody writes code.
 
 The projects are historical experiments at different stages of maturity. Use the ready-made activities in their READMEs, check the app before class, and keep a worksheet fallback. The source code is there for students who want to look deeper.
+
+## Keep learning
+
+The [references and resources page](resources/README.md) brings together books, courses, newsletters, a curated LLM maths playlist, and my articles. Choose one resource that connects to the example you just tried.
