@@ -53,7 +53,7 @@ Each notebook combines explanations, runnable code, and a small activity. **Cola
 | **GenAI final challenge** | Configure the hotel concierge and test it on ten emails | [Open in Colab](https://colab.research.google.com/github/bforbesc/Data-AI-with-Forbes/blob/main/notebooks/genai-day/final_challenge.ipynb) | After the course, or with an instructor; paid API access |
 | **Model fine-tuning** — instructor extension | Adapt a tiny open model's style and examine what fine-tuning does not change | [Open in Colab](https://colab.research.google.com/github/bforbesc/Data-AI-with-Forbes/blob/main/notebooks/genai-day/model_finetuning.ipynb) · [Resulting model](https://huggingface.co/bforbesc/smollm2-135m-hotel-silencio) | Optional; a T4 GPU is recommended |
 
-## 🗂️ Project library
+## 📁 Project library
 
 **Historical experiments, revisited as teaching case studies.** These are here to show how an idea was put together, which frameworks were used, and what we can learn from the choices. They are not presented as current production tools. Start with the explanations and samples; running the older apps is optional.
 
